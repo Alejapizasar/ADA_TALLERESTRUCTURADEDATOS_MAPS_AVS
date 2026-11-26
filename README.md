@@ -45,11 +45,11 @@ Ambos problemas fueron enviados con **Submit Code** y aprobaron todos los casos 
 
 **Problema 1: Cycle Detection**
 
-![Evidencia problema 1](evidencia_ciclo.png)
+![Evidencia problema 1](evidencia_ciclo.PNG)
 
 **Problema 2: Largest Rectangle**
 
-![Evidencia problema 2](evidencia_rectangulo.png)
+![Evidencia problema 2](evidencia_rectangulo.PNG)
 
 ## Estructura del repositorio
 
